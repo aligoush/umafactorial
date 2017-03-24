@@ -1,0 +1,204 @@
+    1  whoami
+    2  whoiam
+    3  help
+    4  tree
+    5  bold
+    6  commit
+    7  git status
+    8  cd
+    9  ls
+   10  cd..
+   11  cd
+   12  cd Usuarios
+   13  dir
+   14  cd
+   15  cd
+   16  cd
+   17  pwd
+   18  git clone 
+   19  git clone 
+   20  git clone 
+   21  git clon 
+   22  git clone 
+   23  git clone https://github.com/alinaltyn/umafactorial
+   24  git config user.name Aliene 
+   25  cd umafactorial
+   26  git config user.name Aliene 
+   27  git config user.email alieneguzh@gmail.com
+   28  git add factorial.java
+   29  git status 
+   30  git commit -m "implementacion inicial"
+   31  git status 
+   32  git add factorial.java
+   33  git commit -m "refactorizacion"
+   34  git push origin master
+   35  git checkout -b recursivo
+   36  git status
+   37  git add factorial.java
+   38  git commit -m "implementacion recursiva"
+   39  git push origin 
+   40  git push origin recursivo
+   41  git checkout master
+   42  git add factorial.java
+   43  git commit -m "correccion numeros negativos"
+   44  git push origin master
+   45  git checkout recursivo
+   46  git checkout master
+   47  git checkout recursivo
+   48  pwd
+   49  git clone https://github.com/alinaltyn/umafactorial
+   50  git config --global core.editor "atom --wait"
+   51  atom
+   52  git config --global core.editor "atom --wait"
+   53  atom
+   54  atom
+   55  git config --global core.editor "atom --wait"
+   56  atom
+   57  git config --global core.editor "atom --wait"
+   58  atom
+   59  git config user.name Aliene
+   60  cd umafactorial
+   61  git config user.name Aliene
+   62  git config user.email alieneguzh@gmail.com
+   63  git add factorial.java
+   64  git status
+   65  git commit -m "implementacion inicial"
+   66  git status
+   67  git add factorial.java
+   68  git commit -m "refactorizacion"
+   69  git checkout -b recursivo
+   70  git status
+   71  git add factorial.java
+   72  git status
+   73  git commit -m "implementacion recursiva"
+   74  atom
+   75  Atom
+   76  git history
+   77  Function Key 8
+   78  atom
+   79  git config --global core.editor "atom --wait"
+   80  atom
+   81  history > downloads
+   82  history > users/Alina/umafactorial
+   83  atom.commands
+   84  git config --global core.editor <editor>
+   85  git config --global core.editor <editor>#
+   86  pwd
+   87  git init 
+   88  pwd
+   89  pwdç
+   90  pwd
+   91  cd umafactorial
+   92  create umafactorial
+   93  pwd
+   94  cd
+   95  pwd
+   96  exit
+   97  git clone https://github.com/alinaltyn/umafactorial
+   98  cd umafactorial
+   99  git config user.name Aliene
+  100  git config user.email alieneguzh@gmail.com
+  101  git status
+  102  git add factorial.java
+  103  git status
+  104  git add factorial.java
+  105  git status
+  106  git commit -m "refactorizacion"
+  107  git push origin master
+  108  git checkout -b recursivo 
+  109  git status
+  110  git add factorial.java
+  111  git commit -m "implementacion recursiva"
+  112  git push origin recursivo
+  113  git checkout master
+  114  git add factorial.java
+  115  git status
+  116  git commit -m "correccion numeros negativos"
+  117  git push origin master
+  118  git checkout recursivo
+  119  git status
+  120  git add factorial.java
+  121  git status
+  122  git commit -m "optimizacion"
+  123  git push origin recursivo
+  124  git checkout master
+  125  git merge recursivo
+  126  pwd
+  127  cd umafactorial
+  128  git merge recursivo
+  129  cd umafactorial
+  130  git merge recursivo
+  131  git status
+  132  git checkout recursivo
+  133  pwd
+  134  git status
+  135  git commit -m "resolucion de problema con merge"
+  136  git status
+  137  git merge recursivo
+  138  git merge recursivo
+  139  a>3git push origin master
+  140  git push origin master
+  141  git merge recursivo
+  142  git merge recursivo
+  143  git checkout -b refaclO
+  144  git status
+  145  git add factorial.java
+  146  git status
+  147  git commit -m "refactorizacion de metodo de entrada"
+  148  atom
+  149  pwd
+  150  git clone https://github.com/alinaltyn/umafactorial.git
+  151  cd umafactorial
+  152  git config user.name Aliene
+  153  git config user.email alieneguzh@gmail.com
+  154  git status
+  155  git add factorial.java
+  156  git commit-m "implementacion inicial"
+  157  git commit -m "implementacion inicial"
+  158  git add factorial.java
+  159  git status
+  160  git commit -m "refactorizacion"
+  161  git push origin master
+  162  git checkout -b recursivo
+  163  git status
+  164  git add factorial.java
+  165  git status
+  166  git commit -m "implementacion recursiva"
+  167  git push origin recursivo
+  168  git checkout master
+  169  git status
+  170  git add factorial.java
+  171  git commit -m "correccion numeros negativos"
+  172  git push origin master
+  173  git checkout recursivo
+  174  git status
+  175  git add factorial.java
+  176  git commit -m "optimizacion"
+  177  git checkout master
+  178  git merge recursivo
+  179  git chekout -b refacIO
+  180  git checkout -b refacIO
+  181  git status
+  182  git add factorial.java 
+  183  git status
+  184  git commit factorial.java 
+  185  git commit -m "refactorizacion de metodo de entrada" 
+  186  git stash
+  187  git checkout master
+  188  git status
+  189  git add factorial.java 
+  190  git commit -m "cambio de long a BigInteger"
+  191  git push origin master
+  192  git checkout refacIO 
+  193  git stash pop
+  194  git  hjhxx
+  195  git add factorial.java 
+  196  git status
+  197  git commit -m "refactorizacion de metodo de salida"
+  198  git checkout master
+  199  git merge refacIO
+  200  git status
+  201  git add factorial.java 
+  202  git commit -m "mezcla de rama refacIO"
+  203  git push origin master
+  204  history > comandos-git.txt
